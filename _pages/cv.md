@@ -14,7 +14,7 @@ Education
 * Ph.D in Applied and Computational Mathematics, Old Dominion University, 2028 (expected)
 * M.S. Applied and Computational mathematics, Old Dominion University, 2025
 * Master Of science in Mathematics, COMSATS University Islamabad, 2021
-* B.S in MAthematics, International Islamic University Islamabad
+* B.S in MAthematics, International Islamic University Islamabad, 2018
 
 Work experience
 ======
