@@ -33,19 +33,21 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-
+{% comment %}
 Publications
 ======
  <ul>{% for post in site.publications reversed %}
    {% include archive-single-cv.html %}
  {% endfor %}</ul>
-  
+{% endcomment %}
+
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+{% endcomment %}  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
