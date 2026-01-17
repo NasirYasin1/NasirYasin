@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergrad Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Old Dominion University, Norfolk, USA"
-date: 
+date: 2023-01-01
 location: "Norfolk, USA"
 ---
 
