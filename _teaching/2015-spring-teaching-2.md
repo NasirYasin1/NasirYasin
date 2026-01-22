@@ -1,14 +1,20 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Undergraduate Courses – Supplemental Instruction"
 collection: teaching
-type: "Undergrad Courses"
-permalink: /teaching/2015-spring-teaching-1
-venue: "Old Dominion University, Norfolk, USA"
-date: 2023-01-01
-location: "Norfolk, USA"
+type: "Undergraduate courses"
+venue: "Old Dominion University"
+date: 2023-08-01
+location: "Norfolk, VA, USA"
 ---
+From Fall 2023, I have been working as a Supplemental Instruction (SI) Leader for undergraduate mathematics courses at Old Dominion University.
 
-From Fall 2023 I am working as an SI leader in differen courses.
+**Courses supported:**
+- Calculus I  
+- Calculus II  
+- Linear Algebra  
+- Differential Equations  
+- Applied Calculus for Engineers
+
 
 
 
