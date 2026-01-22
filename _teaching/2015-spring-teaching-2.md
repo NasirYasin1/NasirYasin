@@ -10,7 +10,7 @@ excerpt: |
 
   Courses supported:
   - <strong>MATH-212</strong>: Calculus 
-  -<strong>MATH-205</strong>: Calculus for Life science
+  - <strong>MATH-205</strong>: Calculus for Life science
   - <strong>MATH-200</strong>: Calculus for Bussiness and Economics
   - <strong>MATH-162</strong>: Precalculus
   - <strong>MATH-103</strong>: College Algebra
