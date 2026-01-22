@@ -23,7 +23,7 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* <strong>April 2022</strong>- August 2023: Research Assistant
+* <strong>April 2022- August 2023 </strong>: Research Assistant
   * Kyungpook National University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
