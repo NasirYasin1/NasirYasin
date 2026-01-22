@@ -10,12 +10,12 @@ excerpt: |
   From Fall 2023, I have been working as a Supplemental Instruction (SI) Leader for undergraduate mathematics courses at Old Dominion University. In addition to SI sessions, I support students in the <strong>Applied Calculus Laboratory</strong> and the <strong>SMART Room</strong>, and provide <strong>online tutoring</strong> for undergraduate mathematics courses.
 
   Courses supported:
-  - MATH-212: Calculus 
-  -MATH-205: Calculus for Life science
-  - MATH-200: Calculus for Bussiness and Economics
-  - MATH-162: Precalculus
-  - MATH-103: College Algebra
-  - MATH-101: Introduction to Mathematics for Critical thinking
+  - <strong>MATH-212</strong>: Calculus 
+  -<strong>MATH-205</strong>: Calculus for Life science
+  - <strong>MATH-200</strong>: Calculus for Bussiness and Economics
+  - <strong>MATH-162</strong>: Precalculus
+  - <strong>MATH-103</strong>: College Algebra
+  - <strong>MATH-100</strong>: Introduction to Mathematics for Critical thinking
 ---
 
 
