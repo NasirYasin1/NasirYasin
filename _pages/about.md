@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a graduate researcher in **Applied and Computational Mathematics** at **Old Dominion University (ODU)** in **Norfolk, Virginia**, where I am currently pursuing my **Ph.D. (2025–Present)**. My academic interests broadly span **scientific computing, numerical modeling, and machine learning**, with a focus on developing **accurate, efficient, and scalable computational approaches** for complex systems.
 
+I hold an **M.S. in Applied and Computational Mathematics** from **ODU (2023–2025)** and previously earned an **M.S. in Mathematics** from **COMSATS University Islamabad** as well as a **B.S. in Mathematics** from the **International Islamic University Islamabad**. My research experience includes contributions to funded projects in **Pakistan and South Korea**, involving **high-performance numerical simulation** and **computational modeling**.
+
+In addition to research, I support undergraduate learning at ODU as a **Supplemental Instruction (SI) Leader (Fall 2023–Present)**, where I facilitate problem-solving sessions and provide academic support through the **Applied Calculus Laboratory**, the **SMART Room**, and **online tutoring**. My technical background includes **Python, MATLAB, R, C++, and Fortran**, with experience in **CUDA** and Linux-based scientific computing workflows.
+
+{% comment %}
 I am a graduate researcher in **Applied and Computational Mathematics** at **Old Dominion University (ODU), Norfolk, Virginia**, where I am currently pursuing my **Ph.D. (2025–Present)**. My work lies at the intersection of **scientific computing, numerical modeling, and machine learning**, with a focus on developing stable, efficient, and scalable computational methods for complex systems. My research interests include **algorithm development, numerical methods for PDEs, high-performance computing (HPC), data assimilation**, and **data-driven modeling**. 
 
 I earned my **M.S. in Applied and Computational Mathematics** from ODU (2023–2025). My thesis, *“Entropy and Gradient Stable Scheme for Hyperbolic Burgers Equation,”* investigated robust numerical discretizations and stability properties for nonlinear hyperbolic problems. Before joining ODU, I completed a **Master of Science in Mathematics** at **COMSATS University Islamabad, Pakistan** (2019–2021), where I studied flow features and force statistics for flow past multiple bluff bodies. I received my **B.S. in Mathematics** from the **International Islamic University Islamabad** (2014–2018).
@@ -16,7 +22,7 @@ My research experience includes work on funded projects in both Pakistan and Sou
 In addition to research, I support undergraduate learning at ODU as a **Supplemental Instruction (SI) Leader** (Fall 2023–Present). My teaching activities include leading structured problem-solving sessions, supporting students in the **Applied Calculus Laboratory** and the **SMART Room**, and providing **online tutoring** for undergraduate mathematics courses. 
 
 My technical toolkit includes **Python, MATLAB, R, C++, and Fortran**, with experience in **CUDA**, Linux-based development, and scientific computing workflows. My graduate coursework covers **machine learning, modern statistical methods for big data analytics, large-scale optimization, probability theory for data science, and numerical/computational linear algebra**, which supports my ongoing work on data-driven and physics-informed approaches to modeling and simulation.
-
+{% endcomment %}
 {% comment %}
 A data-driven personal website
 ======
