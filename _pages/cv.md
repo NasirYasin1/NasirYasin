@@ -23,7 +23,7 @@ Graduate Coursework
   <div>
     <strong>Data Science</strong>
     <ol style="margin:6px 0 0 18px; padding:0;">
-      <li>Machine Learning</li
+      <li>Machine Learning</li>
       <li>Modern Statistical Methods for Big Data Analytics</li>
       <li>large Scale Optimization</li>
       <li>Probability Theory for Data Science</li>
