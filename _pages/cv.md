@@ -16,6 +16,14 @@ Education
 * Master Of science in Mathematics, COMSATS University Islamabad, 2021
 * B.S in Mathematics, International Islamic University Islamabad, 2018
 
+Graduate Coursework
+======
+- Applied Numerical Analysis
+- Partial Differential Equations
+- Scientific Computing
+- High-Performance Computing
+- Machine Learning
+
 Work experience
 ======
 * <strong>Fall 2023 - Present </strong>: Graduate Teaching Assistant 
