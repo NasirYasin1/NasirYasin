@@ -51,19 +51,6 @@ Graduate Coursework
   </div>
 
 </div>
-Graduate Coursework
-======
-**Data Science**
-(1) Machine Learning &nbsp;&nbsp; (2) Statistical Learning &nbsp;&nbsp; (3) Data Mining  
-(4) Big Data Analytics &nbsp;&nbsp; (5) Deep Learning &nbsp;&nbsp; (6) Data Visualization  
-
-**Applied Mathematics**
-(1) Applied Numerical Analysis &nbsp;&nbsp; (2) Partial Differential Equations &nbsp;&nbsp; (3) Scientific Computing  
-(4) High-Performance Computing &nbsp;&nbsp; (5) Optimization &nbsp;&nbsp; (6) Computational Methods  
-
-**Pure Mathematics**
-(1) Real Analysis &nbsp;&nbsp; (2) Functional Analysis &nbsp;&nbsp; (3) Measure Theory  
-(4) Abstract Algebra &nbsp;&nbsp; (5) Complex Analysis &nbsp;&nbsp; (6) Topology  
 
 Work experience
 ======
