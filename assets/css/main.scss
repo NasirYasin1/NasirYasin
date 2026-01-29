@@ -41,17 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Make avatar perfectly circular even if the source image is portrait */
+/* Make avatar wider and less tall (rectangle crop) */
 .author__avatar img {
-  width: 175px;
-  height: 175px;
-  object-fit: cover;
-  border-radius: 50%;
+  width: 220px !important;   /* wider */
+  height: 150px !important;  /* shorter */
+  object-fit: cover !important;
+  border-radius: 12px !important; /* small rounded corners; set 0 for square */
 }
 
+/* Mobile size */
 @media (max-width: 1023px) {
   .author__avatar img {
-    width: 36px;
-    height: 36px;
+    width: 60px !important;
+    height: 40px !important;
+    border-radius: 8px !important;
   }
 }
